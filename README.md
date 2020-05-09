@@ -1,0 +1,2 @@
+# coursera-machine-learning
+Personal AmazingRoovy's homeworks made specially for ML course available on coursera in Russian language. The course provided by collaboration work of Yandex x HSE (https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie). You can use any code on your own purpose if you want. Contact me if you have any questions and be straight if you want to ask any questions to me! E-mail: abahtimov2014@gmail.com
